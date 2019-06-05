@@ -1,9 +1,8 @@
 <script>
-  import Button from './Button.svelte'
-
+  import Button from "./Button.svelte";
 </script>
 
-<style lang="postcss">
+<style lang="text/postcss">
 
 </style>
 
