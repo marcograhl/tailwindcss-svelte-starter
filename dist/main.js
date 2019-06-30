@@ -366,7 +366,7 @@
     			h1.textContent = "Hello !";
     			t_1 = space();
     			button.$$.fragment.c();
-    			h1.className = "text-3xl text-red-600";
+    			h1.className = "bg-red-700 text-3xl text-white";
     			add_location(h1, file$1, 7, 2, 106);
     			add_location(main, file$1, 6, 0, 97);
     		},

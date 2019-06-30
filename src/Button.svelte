@@ -14,7 +14,6 @@
 </style>
 
 <button
-  class="color space border-none bg-blue-700 hover:bg-blue-400 rounded"
-  on:click={handleClick}>
+  class="color space border-none bg-blue-700 hover:bg-blue-400 rounded" on:click={handleClick}>
   Clicked {clicks} {clicks === 1 ? 'time' : 'times'}
 </button>
